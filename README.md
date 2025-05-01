@@ -1,5 +1,6 @@
 # masscan-to-neo4j
 Simple python script for importing Masscan results to a Neo4j Graph Database.
+[A short writeup on the tooling and idea can be found here](https://passkwall.net/visualizing-network-scans-and-identifying-relationships-with-neo4j/).
 
 > [For a version to use with Nmap, click here.](https://github.com/passkwall/nmap-to-neo4j)
 
